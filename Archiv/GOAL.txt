@@ -1,0 +1,7 @@
+- Scan several projectfolders for keywords/topics of documents (PDF / WORD).
+- create list of document titles.
+- create full lists of possible keywords/topics.
+
+possible next steps:
+- assess completeness of projects based on the lists.
+- draw NetworkX graph of projects -> keywords
