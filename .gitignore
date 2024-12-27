@@ -3,6 +3,7 @@ archive/
 GOAL.txt
 conda-setup.sh
 General-Knowledge/
+final_embeddings.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
