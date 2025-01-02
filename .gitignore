@@ -4,6 +4,7 @@ GOAL.txt
 conda-setup.sh
 General-Knowledge/
 final_embeddings.pt
+dataset.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
